@@ -4,8 +4,9 @@ Hi!
 
 This project is in progress.
 
+## Dataset:
+Dataset is a zip file in the repo: 
 Data source: this repository uses data from https://insights.stackoverflow.com/survey
 
-Dataset is >100Mb so I put the dataset in Git Large File Storage.
 
 
