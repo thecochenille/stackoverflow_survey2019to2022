@@ -1,5 +1,6 @@
-# Blog project using Stackoverflow surveys 2022
 # Draw me a Data Scientist
+# A Data Exploratory Analysis using Stackoverflow surveys 2022
+
 
 ![AI-generated images](drawmeadatascientist.png)
 
