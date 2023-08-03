@@ -1,5 +1,6 @@
-# Udacity Blog project using Stackoverflow surveys 2022
+# Blog project using Stackoverflow surveys 2022
 # Draw me a Data Scientist
+[](drawmeadatascientist.png)
 
 *Data Science once an emerging field is now in high demand* in companies trying to build Data Science (DS) teams or hiring DS professionals to provide data supported insights and solutions for these companies. What does a data science role look like today?
 To answer this questions, I used the CRISP-DM process, a methodology routinely used in Data Science projects.
@@ -24,6 +25,7 @@ The blog post related to this analysis is on [Medium](https://medium.com/@isabel
 
 ## Data source and Acknowledgements
 Stack Overflow Developers Survey 2022 [https://insights.stackoverflow.com/survey](https://insights.stackoverflow.com/survey) . Accessed April 5, 2023.
+Udacity for providing guidance
 
 ## List of Files in the Repository
 - [Stackoverflow_survey2022Analysis.ipynb](https://github.com/thecochenille/stackoverflow_survey2022_CRISP-DM/blob/55d9c44e4c77abf2d20053a6e631f6b5c9377eb9/Stackoverflow_survey2022Analysis.ipynb): Jupyter Notebook including all analyses presented in the blog post.
