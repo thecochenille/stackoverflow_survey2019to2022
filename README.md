@@ -1,5 +1,6 @@
 # Blog project using Stackoverflow surveys 2022
 # Draw me a Data Scientist
+[](drawmeadatascientist.png)
 
 *Data Science once an emerging field is now in high demand* in companies trying to build Data Science (DS) teams or hiring DS professionals to provide data supported insights and solutions for these companies. What does a data science role look like today?
 To answer this questions, I used the CRISP-DM process, a methodology routinely used in Data Science projects.
